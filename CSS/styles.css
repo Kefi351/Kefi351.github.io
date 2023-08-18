@@ -1,0 +1,35 @@
+@import url('https://fonts.cdnfonts.com/css/apple-chancery');
+* {
+    font-family: 'Apple Chancery', sans-serif;
+}
+
+body {
+    background-image: url(/IMG/72968981-fondo-de-papel-viejo-y-amarillento-para-el-diseýo-estilo-grunge-transformed.jpeg);
+    filter: sepia(75%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+A:link {text-decoration: none; color: black;}
+A:visited {color: black; text-decoration: none }
+A:hover { color: black; text-decoration: none }
+
+.navegador {
+    background-color: #947d4a;
+}
+
+.navegador a {
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.mar1 {
+    margin-left: 20px;
+}
+.mar2 {
+    margin-left: 40px;
+}
+.mar3 {
+    margin-left: 60px;
+}
